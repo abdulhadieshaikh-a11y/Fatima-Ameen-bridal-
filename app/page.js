@@ -6,7 +6,7 @@ import Reveal from "./components/Reveal";
 
 const whatsappNumber = "923152964917";
 const phoneNumber = "+923152964917";
-const heroImages = ["/hero-bridal-3.jpg", "/hero-bridal-2.jpg"];
+const heroImages = ["/hero-bridal-3.jpg", "/hero-red-maxi.jpg"];
 
 const products = [
   { id: "fa-01", tag: "BARAAT EDIT", title: "Rani Gul Bridal Lehenga", price: 185000, fabric: "Raw silk · Velvet · Net", work: "Zardozi · Dabka · Sequin", image: "https://images.pexels.com/photos/5622603/pexels-photo-5622603.jpeg?auto=compress&cs=tinysrgb&w=1200", description: "A regal deep crimson lehenga with a hand-worked velvet blouse and four-sided dupatta border.", tone: "Crimson / Gold" },
